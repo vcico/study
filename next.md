@@ -1,0 +1,25 @@
+- c++数据结构探险 图 https://www.imooc.com/learn/672 老师有其他数据结构课程
+-  go开发 mysql数据库中间件 https://www.imooc.com/video/18312
+- web渗透入门 https://www.imooc.com/learn/1032
+- ？https://www.imooc.com/learn/1044
+- 消息队列 ?? https://www.imooc.com/learn/1042
+- php+redis消息队列 https://www.imooc.com/learn/852
+- go并发编程案例解析 https://www.imooc.com/learn/982
+- GO实现千万级WebSocket消息推送服务 https://www.imooc.com/learn/1025
+- python运维-Socket网络编程 https://www.imooc.com/learn/1031
+- mysql集群入门 https://www.imooc.com/learn/993
+- 搭建并行处理管道 go https://www.imooc.com/learn/927
+- web安全之sql注入 https://www.imooc.com/learn/883
+- sqlmap https://www.imooc.com/learn/865
+- SEO 搜索引擎入门 https://www.imooc.com/learn/855
+- PHP 秒杀分析 https://www.imooc.com/learn/722
+- linux管理 https://www.imooc.com/learn/583
+- Linux服务管理 https://www.imooc.com/learn/537
+- mysql 同讲师 https://www.imooc.com/learn/589 
+- mysql优化 https://www.imooc.com/learn/194
+- mysql设计 https://www.imooc.com/learn/117
+- OAuth2.0 第三方登录 https://www.imooc.com/learn/557
+- PHP加密 https://www.imooc.com/learn/113
+- iptables搭建一套强大的安全防护盾 https://www.imooc.com/learn/389
+- linux 扫描 https://www.imooc.com/learn/344
+- linux网络管理 https://www.imooc.com/learn/258

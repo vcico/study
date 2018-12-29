@@ -1,0 +1,12 @@
+HTTrack3.49-2+./test.so launched on Thu, 22 Nov 2018 09:40:56 at http://www.st-dongxing.com/
+(httrack -%W ./test.so http://www.st-dongxing.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:54:00	Error: 	"Forbidden" (403) at link www.st-dongxing.com/en/product.asp?ID=88 (from www.st-dongxing.com/en/products_d.asp?ClassID=401)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 8 seconds : 280 links scanned, 278 files written (12988933 bytes overall) [12469907 bytes received at 15824 bytes/sec], 996260 bytes transferred using HTTP compression in 133 files, ratio 41%
+(1 errors, 0 warnings, 0 messages)

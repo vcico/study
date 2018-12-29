@@ -34,11 +34,25 @@ openssl制作自签名的证书
 		openssl ecparam -genkey -name secp256r1 | openssl ec -out ec.key 生成 ECDSA key
 
 2. 创建证书签名请求文件：CSR: certificate signing requests 
+
+
 	
 	包含： 公钥 证书使用者名字
 	RSA：
 		openssl req -new -key rsa.key -out rsa.csr # 需要输入相关信息 对用 使用者信息
 			common name 是别人能看到来确认你的 认真填写
+            
+            
+    
+字段	说明	示例
+Country Name	ISO国家代码（两位字符）	CN
+State or Province Name	所在省份	ZheJiang
+Locality Name	所在城市	HangZhou
+Organization Name	公司名称	HangZhou xxx Technologies, Inc.
+Organizational Unit Name	部门名称	IT Dept.
+Common Name	申请证书的域名	www.example.com
+Email Address	不需要输入
+A challenge password	不需要输入
 
 	openssl req -text -in rsa.csr -noout 【不输出本身的base64文本】 查看Key
 	
